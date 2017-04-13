@@ -1,0 +1,1 @@
+java -cp .;commons-io-2.4.jar;wink-json4j-1.3.0.jar BwlFileDownloader YOURUSERNAME YOURPASSWORD YOURACCOUNT -f timestamp.txt -t timestamp.txt -n -r -s
